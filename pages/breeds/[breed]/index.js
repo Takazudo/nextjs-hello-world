@@ -17,15 +17,15 @@ const Home = ({ dogImgUrls }) => {
         <hr />
         breeds
         <ul>
-          <li><Link href="/breeds/affenpinscher/"><a>affenpinscher</a></Link></li>
-          <li><Link href="/breeds/african/"><a>african</a></Link></li>
-          <li><Link href="/breeds/airedale/"><a>airedale</a></Link></li>
-          <li><Link href="/breeds/akita/"><a>akita</a></Link></li>
-          <li><Link href="/breeds/basenji/"><a>basenji</a></Link></li>
-          <li><Link href="/breeds/beagle/"><a>beagle</a></Link></li>
-          <li><Link href="/breeds/bluetick/"><a>bluetick</a></Link></li>
-          <li><Link href="/breeds/borzoi/"><a>borzoi</a></Link></li>
-          <li><Link href="/breeds/bouvier/"><a>bouvier</a></Link></li>
+          <li><a href="/breeds/affenpinscher/">affenpinscher</a></li>
+          <li><a href="/breeds/african/">african</a></li>
+          <li><a href="/breeds/airedale/">airedale</a></li>
+          <li><a href="/breeds/akita/">akita</a></li>
+          <li><a href="/breeds/basenji/">basenji</a></li>
+          <li><a href="/breeds/beagle/">beagle</a></li>
+          <li><a href="/breeds/bluetick/">bluetick</a></li>
+          <li><a href="/breeds/borzoi/">borzoi</a></li>
+          <li><a href="/breeds/bouvier/">bouvier</a></li>
         </ul>
       </main>
     </div>
