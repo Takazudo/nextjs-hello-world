@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-const Home = () => (
+const Page = () => (
   <div className="container">
     <main>
       <h1>3.js</h1>
@@ -12,4 +12,4 @@ const Home = () => (
   </div>
 )
 
-export default Home
+export default Page
